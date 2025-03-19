@@ -1,3 +1,8 @@
 Tener un servidor apache puerto 8080 y MySQL 3307
 tenerlo activo y el proyecto en la carpeta htdocs y 
+
+npm install
+npm install chart.js react-chartjs-2.
+
 hacer npm start en la carpeta frontend.
+
