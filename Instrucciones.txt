@@ -1,0 +1,3 @@
+Tener un servidor apache puerto 8080 y MySQL 3307
+tenerlo activo y el proyecto en la carpeta htdocs y 
+hacer npm start en la carpeta frontend.
